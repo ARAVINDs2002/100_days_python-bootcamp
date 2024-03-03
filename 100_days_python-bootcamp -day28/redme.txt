@@ -1,0 +1,35 @@
+Password Generator Documentation
+
+Introduction
+
+The Password Generator is a Python program that generates a random password based on user-defined criteria. It allows you to specify the number of letters, numbers, and symbols to include in the password.
+
+
+Features
+
+Generates a random password.
+Allows customization of the password length and composition.
+Uses letters, numbers, and symbols to create strong and secure passwords.
+
+How to Use
+
+Run the program.
+
+Enter the number of letters, numbers, and symbols you want in your password when prompted.
+The program will generate and display a random password that meets your criteria.
+
+Code Structure
+
+The code is structured as follows:
+
+Imports the random module for generating random characters.
+Defines lists of alphabets, symbols, and numbers.
+Asks the user for the number of letters, numbers, and symbols they want in the password.
+Generates random characters based on the user's input.
+Shuffles the characters to create a random order.
+Joins the characters into a single string to form the password.
+Displays the generated password to the user.
+
+Conclusion
+
+The Password Generator is a simple yet effective tool for creating secure and random passwords tailored to your specific requirements. It can help you enhance the security of your online accounts by generating strong and unique passwords for each one.

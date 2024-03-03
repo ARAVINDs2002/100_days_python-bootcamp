@@ -1,0 +1,32 @@
+# Pizza Order System
+
+The Pizza Order System is a Python program that allows customers to choose from a selection of pizza sizes and add extra cheese to their order. The program calculates the total cost based on the customer's choices and provides the final price.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Pizza Options](#pizza-options)
+- [Adding Extra Cheese](#adding-extra-cheese)
+- [License](#license)
+
+## Introduction
+
+The Pizza Order System program simplifies the process of ordering pizza by providing a menu of pizza sizes and the option to add extra cheese. It calculates the total cost and displays the final price to the customer.
+
+## Usage
+
+To use this program, follow these steps:
+
+1. **Run the program:** Execute the Python script by running the following command in your terminal:
+
+##pizza-option
+
+Small Pizza - $30
+Medium Pizza - $60
+Large Pizza - $80
+Adding Extra Cheese or not-$20 for all
+
+#license
+
+The Employee Payroll System is open-source software and can be dowloaded from my git
