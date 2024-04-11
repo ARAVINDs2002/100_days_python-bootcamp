@@ -1,0 +1,35 @@
+# QR Code Generator
+
+The QR Code Generator is a Python program that generates QR codes for specified URLs or text. It uses the `pyqrcode` library to create QR codes and can output them as SVG or PNG files.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Features](#features)
+- [License](#license)
+
+## Introduction
+
+The QR Code Generator program allows you to create QR codes for various purposes, such as linking to websites, sharing text, or storing information in a machine-readable format. It uses the `pyqrcode` library, making it easy to generate QR codes programmatically.
+
+## Usage
+
+To use this program, follow these steps:
+
+1. **Install the required library:** If you haven't already, you can install the `pyqrcode` library using `pip`.
+      pip install pyqrcode
+
+
+#features
+QR Code Creation: It creates QR codes for URLs or text, making it easy to share information.
+
+Output Formats: It supports both SVG and PNG output formats, allowing flexibility in how you use the generated QR codes.
+
+
+##license
+
+The Employee Payroll System is open-source software and can be dowloaded from my git
+
+
+

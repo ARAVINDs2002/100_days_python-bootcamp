@@ -1,0 +1,45 @@
+# Login and Registration System
+
+The Login and Registration System is a C++ program that allows users to log in, register new accounts, and recover forgotten passwords. It uses a text file to store user credentials and provides a menu-driven interface for user interactions.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Features](#features)
+- [License](#license)
+
+## Introduction
+
+The Login and Registration System program provides users with the ability to perform the following actions:
+
+- Log in with an existing account.
+- Register a new account with a username and password.
+- Recover a forgotten password by searching for the username.
+
+The program stores user credentials in a text file for authentication.
+
+## Usage
+
+To use this program, follow these steps:
+
+1. **Run the program:** Execute the C++ program by compiling and running it in your terminal or code editor.
+
+#features
+
+Log in: Existing users can log in by providing their username and password.
+
+Registration: New users can register by providing a unique username and a password.
+
+Password Recovery: Users who have forgotten their passwords can search for their password using their username.
+
+Data Storage: User credentials (username and password) are stored in a text file ("records.txt").
+
+
+#license
+
+The Employee Payroll System is open-source software and can be dowloaded from my git
+
+
+
+

@@ -1,0 +1,32 @@
+# Token Generator
+
+The Token Generator is a C program that generates a random token each time it is run. It uses the current time as a seed for the random number generator to ensure a unique token.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [How it Works](#how-it-works)
+- [License](#license)
+
+## Introduction
+
+The Token Generator program generates a random token, which can be used for various purposes, such as security tokens or unique identifiers. Each time the program is run, it generates a new and unique token.
+
+## Usage
+
+To use this program, follow these steps:
+
+1. **Run the program:** Execute the C program by compiling and running it in your terminal or code editor.
+
+
+#how-it-works
+
+The Token Generator program works by utilizing the rand() function from the C Standard Library. It initializes the random number generator with the current time as a seed to ensure that each run produces a unique token.
+
+
+#license
+
+The Employee Payroll System is open-source software and can be dowloaded from my git
+
+
